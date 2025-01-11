@@ -27,4 +27,5 @@ where am I:
 - 👯 I’m looking to collaborate on ai project
 - 💬 Ask me about anything about my journey
 - 📫 How to reach me: amediazz@gmail.com
+- :algeria: my nationality
   
