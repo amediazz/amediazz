@@ -20,11 +20,11 @@
   </section>
 
 ###
-Here are some ideas to get you started:
+where am I:
 
 - 🌱 I’m currently learning javascript data structure on freeCodeCamp.org
-- 🔭 I’m currently working on TODO-APP 
+- 🔭 I’m currently working on freelance  
 - 👯 I’m looking to collaborate on ai project
-- 💬 Ask me about 
+- 💬 Ask me about anything about my journey
 - 📫 How to reach me: amediazz@gmail.com
   
